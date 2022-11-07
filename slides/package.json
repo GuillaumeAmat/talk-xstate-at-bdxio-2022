@@ -1,0 +1,22 @@
+{
+  "name": "talk-xstate-at-bdxio",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "dev:open": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.36.10",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "@slidev/types": "^0.37.0"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.19",
+    "@iconify-json/material-symbols": "^1.1.25",
+    "@iconify-json/mdi": "^1.1.36",
+    "@iconify-json/uim": "^1.1.3"
+  }
+}
